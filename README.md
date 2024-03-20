@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
 - 💞️ I wanna be working in any US company
-- 📫 Please visit my linked in profile to reach me
+- 📫 Please visit my linkedIn profile to reach me
 - ⚡ Fun fact: I love bugs
 
 <!---
